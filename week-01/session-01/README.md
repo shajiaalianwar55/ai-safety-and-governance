@@ -18,10 +18,10 @@
 
 ## Learning Materials
 
-- Lecture slides
-- Lecture notes
-- Discussion questions
-- Recommended readings
+- [Lecture Slides](./lecture-slides.pdf)
+- [Lecture Notes](./lecture-notes.pdf)
+- [Discussion and Testing Questions](./recommended-discussion-questions.md)
+- [Recommended Readings](./recommended-readings.md)
 
 ## Session Overview
 
