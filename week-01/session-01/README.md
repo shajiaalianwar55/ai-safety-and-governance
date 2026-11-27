@@ -20,7 +20,7 @@
 
 - [Lecture Slides](./lecture-slides.pdf)
 - [Lecture Notes](./lecture-notes.pdf)
-- [Discussion and Testing Questions](./recommended-discussion-questions.md)
+- [Recommended Discussion and Testing Questions](./recommended-discussion-questions.md)
 - [Recommended Readings](./recommended-readings.md)
 
 ## Session Overview
